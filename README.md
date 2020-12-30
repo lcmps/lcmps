@@ -3,7 +3,7 @@
 I'm a fullstack developer from Brazil, with experience in linux system administration
 - Currently learning kubernetes
 - My favorite language is Go
-- Worked previously with .NET Core and Framework
+- Worked 2 years with .NET Core and Framework as a backend developer
 
 <br />
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
