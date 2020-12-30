@@ -5,11 +5,15 @@ I'm a fullstack developer from Brazil, with experience in linux system administr
 - My favorite language is Go
 - Worked 2 years with .NET Core and Framework as a backend developer
 
+---
+
 <br />
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
 <br />
 
 ### Languages, frameworks and tools:
+
+---
 
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
