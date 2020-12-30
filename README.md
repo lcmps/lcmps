@@ -1,4 +1,4 @@
-<h2 style="align:center"> Hi there, I'm Lucas 👋 </h2>
+<h2 align="center"> Hi there, I'm Lucas 👋 </h2>
 
 I'm a fullstack developer from Brazil, with experience in linux system administration
 - Currently learning kubernetes
