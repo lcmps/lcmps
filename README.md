@@ -1,20 +1,32 @@
-<h2 align="center"> Hi there, I'm Lucas 👋 </h2>
+<h2 align="center"> Hi there 👋 </h2>
 
-I'm a fullstack developer from Brazil, with experience in linux system administration
+<div>
+<h3 align="center"> About Me </h3>
+My name is Lucas, and I'm a 21yo fullstack developer from Brazil
+- Experience in linux system administration
 - Currently learning kubernetes
 - My favorite language is Go
-- Worked 2 years with .NET Core and Framework as a backend developer
+- Started as a .NET Core backend developer using C#, then shifted over to Golang
+- Also did a lot of email marketing templates that mostly targeted Outlook Desktop clients
+
+
+<a href="mailto:lucas1498campos@gmail.com">
+<img align="center" alt="Gmail" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   
+</a>
+</div>
 
 ---
+
 <br>
 <div align="center">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
 </div>
 <br>
 
 ---
+
 <h3 align="center">
-Languages, frameworks and tools 🛠️:
+Languages, tools and etc 🛠️:
 </h3>
 
 <div align="center">
@@ -28,6 +40,8 @@ Languages, frameworks and tools 🛠️:
 <img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="SQL"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </div>
 
 <!-- <img align="left" alt="K8s" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
