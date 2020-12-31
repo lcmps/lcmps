@@ -1,6 +1,5 @@
 <h2 align="center"> Hi there 👋 </h2>
 
-<div>
 <h3 align="center"> About Me </h3>
 My name is Lucas, and I'm a 21yo fullstack developer from Brazil
 -- Experience in linux system administration
@@ -11,9 +10,8 @@ My name is Lucas, and I'm a 21yo fullstack developer from Brazil
 
 
 <a href="mailto:lucas1498campos@gmail.com">
-<img align="center" alt="Gmail" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   
+<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
 </a>
-</div>
 
 ---
 
