@@ -47,4 +47,3 @@ Languages, tools and etc 🛠️:
 <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure"/>
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </div>
-<!-- <img align="left" alt="K8s" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
