@@ -9,7 +9,7 @@ My name is Lucas, and I'm a 21yo fullstack developer from Brazil
 * Also did a lot of email marketing templates that mostly targeted Outlook Desktop clients
 
 
-<a href="mailto:lucas1498campos@gmail.com">
+<a align="center" href="mailto:lucas1498campos@gmail.com">
 <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
 </a>
 
