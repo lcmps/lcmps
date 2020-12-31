@@ -3,11 +3,11 @@
 <div>
 <h3 align="center"> About Me </h3>
 My name is Lucas, and I'm a 21yo fullstack developer from Brazil
-- Experience in linux system administration
-- Currently learning kubernetes
-- My favorite language is Go
-- Started as a .NET Core backend developer using C#, then shifted over to Golang
-- Also did a lot of email marketing templates that mostly targeted Outlook Desktop clients
+-- Experience in linux system administration
+-- Currently learning kubernetes
+-- My favorite language is Go
+-- Started as a .NET Core backend developer using C#, then shifted over to Golang
+-- Also did a lot of email marketing templates that mostly targeted Outlook Desktop clients
 
 
 <a href="mailto:lucas1498campos@gmail.com">
