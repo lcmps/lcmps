@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there 👋 </h2>
-<h3 align="center"> About Me </h3>
+<!-- <h3 align="center"> About Me </h3> -->
 
-My name is Lucas, and I'm a 21yo fullstack developer from Brazil
-* Experience in linux system administration
+<!--My name is Lucas, and I'm a 21yo fullstack developer from Brazil
+//* Experience in linux system administration -->
 * Currently learning kubernetes
 * My favorite language is Go
 * Started as a .NET Core backend developer using C#, then shifted over to Golang
