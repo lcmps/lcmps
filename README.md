@@ -20,7 +20,7 @@
 <div align="center">
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
   <br>
-<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmps&layout=compact&theme=dracula" />
+<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmps&hide_border=true&layout=compact&theme=dracula" />
 </div>
 <br>
 
