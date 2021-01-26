@@ -9,8 +9,8 @@
 * Also did a lot of email marketing templates that mostly targeted Outlook Desktop clients
 
 <div align="center">
-<a href="mailto:lucas1498campos@gmail.com">
-<img align="center" alt="Gmail" src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=mail.ru&color=6e40c9" />   
+<a href="mailto:lucas@lcmps.dev">
+<img align="center" alt="Email" src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=mail.ru&color=6e40c9" />   
 </a>
 </div>
 
