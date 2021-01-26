@@ -18,7 +18,7 @@
 
 <br>
 <div align="center">
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula&hide=contribs" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula" />
   <br>
 <img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmps&hide_border=true&hide=css,scss&layout=compact&theme=dracula" />
 </div>
