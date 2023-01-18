@@ -13,17 +13,6 @@
 <img align="center" alt="Email" src="https://img.shields.io/badge/email-email?style=for-the-badge&logo=mail.ru&color=6e40c9" />   
 </a>
 </div>
-
----
-
-<br>
-<div align="center">
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lcmps&show_icons=true&hide_border=true&theme=dracula" />
-  <br>
-<img align="center" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcmps&hide_border=true&hide=css,scss&layout=compact&theme=dracula" />
-</div>
-<br>
-
 ---
 
 <h3 align="center">
